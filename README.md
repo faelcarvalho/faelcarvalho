@@ -1,4 +1,4 @@
-<h2 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Rafael Carvalho</h2>
+<h2 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="24px">, eu sou Rafael Carvalho</h2>
 
 > Júnior Web Dev em constante evolução
 
