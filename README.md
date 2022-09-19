@@ -1,6 +1,6 @@
 <h2 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="24px">, eu sou Rafael Carvalho</h2>
 
-> Júnior Web Dev em constante evolução
+> Desenvolvedor Web em constante evolução, estudante de progamação e tecnologia
 
 <div align="left">
   <a href="https://github.com/faelcarvalho">
